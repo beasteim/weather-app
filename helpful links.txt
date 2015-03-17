@@ -1,0 +1,35 @@
+
+For returning html on a github page as an actual page:
+http://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview?lq=1
+
+For documentation on the yahoo weatherman gem:
+omniref
+
+This will tell you about the each method!!
+
+http://skillcrush.com/skill-resource/methods/
+
+
+
+For retrieving hashes within arrays:
+http://stackoverflow.com/questions/2244915/how-do-i-search-within-an-array-of-hashes-by-hash-values-in-ruby
+
+
+For accessing hashes within arrays that actually turn out to be 
+a hash within an array within an array(!):
+http://stackoverflow.com/questions/18984390/accessing-array-of-hashes
+
+
+{"date"=>#<DateTime: 2015-03-12T00:00:00+00:00 ((2457094j,0s,0n),+0s,2299161j)>,
+ "low"=>16, "high"=>26, "code"=>31, "day"=>"Thu", "text"=>"Clear"}
+{"date"=>#<DateTime: 2015-03-13T00:00:00+00:00 ((2457095j,0s,0n),+0s,2299161j)>,
+ "low"=>16, "high"=>29, "code"=>32, "day"=>"Fri", "text"=>"Sunny"}
+{"date"=>#<DateTime: 2015-03-14T00:00:00+00:00 ((2457096j,0s,0n),+0s,2299161j)>,
+ "low"=>17, "high"=>30, "code"=>30, "day"=>"Sat", "text"=>"Partly Cloudy"}
+{"date"=>#<DateTime: 2015-03-15T00:00:00+00:00 ((2457097j,0s,0n),+0s,2299161j)>,
+ "low"=>16, "high"=>28, "code"=>30, "day"=>"Sun", "text"=>"Partly Cloudy"}
+{"date"=>#<DateTime: 2015-03-16T00:00:00+00:00 ((2457098j,0s,0n),+0s,2299161j)>,
+ "low"=>15, "high"=>24, "code"=>30, "day"=>"Mon", "text"=>"Partly Cloudy"}
+ 
+Strftime help
+https://blog.udemy.com/ruby-strftime/ 
